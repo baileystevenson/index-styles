@@ -1,0 +1,76 @@
+h1 {
+    color: rgb(16, 16, 144);
+    background-color: lightgrey;
+    text-align: center;
+    padding: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 400%;
+    border: solid; border-color: teal; border-width: 8px;
+   
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+    
+    padding-right: 10%
+}
+h3 {
+    color: rgb(37, 92, 110);
+    text-align: left;
+    background-color: light yellow;
+    padding-right: 5%;
+    
+
+}
+h4 {
+    color: teal;    
+    text-align: center;
+    font-size: 250%;
+}
+
+h5 {
+    color: teal;
+    font-size: 200%;
+    padding-left: 2%
+}
+img {
+  padding-left: 5%;  
+  border-color: black; border: solid; border-width: 8px;
+  
+}
+ .box{
+    width: 350px;
+    height: 375px;
+    border: 1px solid black;border-left: 10%;
+    padding-left:1%;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    background-color: aliceblue;
+
+ }
+ .box2{
+    width: 350px;
+    height: 375px;
+    border: 1px solid black;border-left: 10%;
+   padding-left: 5%;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    background-color: aliceblue;
+ }
+
+ .box3{
+    width: 350px;
+    height: 375px;
+    border: 1px solid black;border-left: 10%;
+   padding-left: 5%;
+    float: left;
+    width: 30%;
+    padding: 10px;
+    background-color: aliceblue;
+ }
+
+
+

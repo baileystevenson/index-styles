@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: grey;
+}
+
+h1 {
+    color: red; 
+    background-color: blue;
+    text-align: center;
+    border: 10px dotted orange;
+    padding: 15px;
+}
+span{
+    color: white;
+    background-color: blue;
+}
